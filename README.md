@@ -1,5 +1,5 @@
 # WPF-ToDoApp
-Органайзер, написанный на WPF. Позволяет свободное расширение буквально за пару строк кода.
-Автоматически сохраняет изменения
-Пример использования:
+An organizer written in WPF. Allows free extension in just a couple of lines of code.
+Automatically saves changes
+Usage example:
 ![Image](https://github.com/AlexSherTemplar/WPF-ToDoApp/blob/master/Image.PNG)
